@@ -17,9 +17,11 @@ body {
 #header{
     width: 100%;
     height: 100vh;
-   /* background-image: url(images/background2.png);  each city i lived , landscape */
     background-size: cover;
     background-position: center;
+    text-align: center;
+    align-items: center;
+
 
 }
 .container{
